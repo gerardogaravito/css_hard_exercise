@@ -6,8 +6,8 @@ Also, this time I split all the css code in multiple files.
 
 ## Here is the result
 
-![img]()
+![img](https://github.com/gerardogaravito/css_hard_exercise/blob/master/images/pic1.png)
 
-![img]()
+![img](https://github.com/gerardogaravito/css_hard_exercise/blob/master/images/pic2.png)
 
-![img]()
+![img](https://github.com/gerardogaravito/css_hard_exercise/blob/master/images/pic3.png)
