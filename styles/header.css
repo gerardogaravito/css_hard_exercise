@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 100%;
+  margin: 0px 10px;
+  border-bottom: 1px solid #c0c0c0;
+}
+.header__image {
+  width: 400px;
+}
+.header__navbar {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+}
+.header__navbar--item {
+  margin: 10px;
+  text-decoration: none;
+  padding: 10px 30px;
+  color: #7C7C7C;
+}
+.header__navbar--item:hover {
+  background-color: rgb(255, 92, 32);
+  color: whitesmoke;
+}
